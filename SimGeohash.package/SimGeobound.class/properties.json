@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SimGeohash",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"northeast",
+		"southwest"
+	],
+	"name" : "SimGeobound",
+	"type" : "normal"
+}

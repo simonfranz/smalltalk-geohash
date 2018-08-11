@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SimGeohash",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"geohashPrefixDictionary",
+		"valueCollection"
+	],
+	"name" : "SimGeohashCollection",
+	"type" : "normal"
+}
